@@ -1,4 +1,4 @@
-whatever : Run on linux kernal
+monkeys on a typewriter: let's see how long it takes to make facebook
 ========
 ```
 _________Justin•♥____________Justin•♥•Bi
